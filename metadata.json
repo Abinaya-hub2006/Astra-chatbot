@@ -1,0 +1,7 @@
+{
+  "name": "Astra Chat",
+  "description": "An advanced, red-themed AI chatbot named Astra, powered by Gemini. Engage in dynamic conversations with a sleek, futuristic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
